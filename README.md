@@ -68,7 +68,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [HomomorphicEncryption.org](https://homomorphicencryption.org). An open industry, government & academic consortium working on standardization of FHE.
 - [KU Leuven](https://www.esat.kuleuven.be/cosic/tag/cosic-guide-to-crypto/). An introduction to homomorphic encryption.
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
-
+- [Zhigang Chen](https://zhigang-chen.github.io/FHE%20and%20Machine%20Learning%20References.html). FHE and Machine Learning References
 
 ## Papers
 
