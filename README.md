@@ -10,7 +10,7 @@
 - [Software](#software)
 - [Databases](#databases)
 - [Resources](#resources)
-
+- [Papers](#Papers)
 
 ## Libraries
 
@@ -70,6 +70,11 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 
 
+## Papers
+
+-  FV algorithm
+    - https://eprint.iacr.org/2012/144.pdf
+
 ## Related awesome lists
 
 - [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
@@ -77,6 +82,11 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Multi-Party Computation.
 
 
+## Misc
+
+- Implement FV Homomorphic Encryption from Scratch in GSoC
+    - https://github.com/OpenMined/PySyft/issues/3097
+    
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
