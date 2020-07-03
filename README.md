@@ -10,7 +10,7 @@
 - [Software](#software)
 - [Databases](#databases)
 - [Resources](#resources)
-
+- [Papers](#Papers)
 
 ## Libraries
 
@@ -36,6 +36,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL](#SEAL), [HElib](#HElib), and [PALISADE](#PALISADE).
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
+- <a name="SEAL">[SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren scheme.</a>
+- [PySEAL](https://github.com/Lab41/PySEAL) - This code wraps the SEAL build in a docker container and provides Python API's to the encryption library.
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
 - <a name="tfhe">[tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.</a>
 
@@ -71,7 +73,13 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Micciancio, Daniele](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
 - [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from SEAL/CKKS talks at Microsoft's Private AI Bootcamp.
 - [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
+- [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
+- [Zhigang Chen](https://zhigang-chen.github.io/FHE%20and%20Machine%20Learning%20References.html). FHE and Machine Learning References
 
+## Papers
+
+-  FV algorithm
+    - https://eprint.iacr.org/2012/144.pdf
 
 ## Related awesome lists
 
@@ -80,6 +88,11 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Multi-Party Computation.
 
 
+## Misc
+
+- Implement FV Homomorphic Encryption from Scratch in GSoC
+    - https://github.com/OpenMined/PySyft/issues/3097
+    
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
