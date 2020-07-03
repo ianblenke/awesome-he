@@ -25,7 +25,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [HElib] - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Haskell high performance machine learning library written
-- [IBM FHE Toolkit for MacOS](https://github.com/IBM/fhe-toolkit-macos) - XCode packaged HElib
+- [IBM FHE Toolkit for MacOS](https://github.com/IBM/fhe-toolkit-macos) - XCode packaged HElib for MacOS
+- [IBM FHE Toolkit for iOS](https://github.com/IBM/fhe-toolkit-ios) - XCode packaged HElib for iOS
 - [Integer Vector Homomorphic Encryption](https://github.com/jamespayor/vector-homomorphic-encryption) - MIT 6.857 project - HE scheme permitting addition, linear transformation, and weighted inner products of integer vectors, whilst encrypted.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
@@ -42,6 +43,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [SEAL] - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL], [HElib], and [PALISADE].
 - [PySEAL](https://github.com/Lab41/PySEAL) - This code wraps the [SEAL] build in a docker container and provides Python API's to the encryption library.
+- [she-wasm](https://github.com/herumi/she-wasm) - Two-level homomorphic encryption for Node.js by WebAssembly
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
 - [tfhe] - Faster fully HE: Bootstrapping in less than 0.1 seconds.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep learning with Homomorphic Encryption (HE) through Intel nGraph.
