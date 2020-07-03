@@ -25,6 +25,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [HElib] - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [HLearn](https://github.com/mikeizbicki/HLearn) - Haskell high performance machine learning library written
+- [IBM FHE Toolkit for MacOS](https://github.com/IBM/fhe-toolkit-macos) - XCode packaged HElib
+- [Integer Vector Homomorphic Encryption](https://github.com/jamespayor/vector-homomorphic-encryption) - MIT 6.857 project - HE scheme permitting addition, linear transformation, and weighted inner products of integer vectors, whilst encrypted.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
 - [libScarab](https://github.com/hcrypt-project/libScarab) - C library implementing a FHE scheme using large integers.
@@ -34,8 +36,9 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe] algorithms.
 - [Microsoft SEAL] - C++ FHE library implementing BFV and CKKS schemes.
 - [PALISADE] - lattice encryption library.
+- [Paillier](https://github.com/mikeivanov/paillier) - Very basic pure Python implementation of the Paillier Homomorphic Cryptosystem
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
-- [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
+- [python-paillier](https://github.com/data61/python-paillier) - Partially HE based on Paillier scheme.
 - [SEAL] - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL], [HElib], and [PALISADE].
 - [PySEAL](https://github.com/Lab41/PySEAL) - This code wraps the [SEAL] build in a docker container and provides Python API's to the encryption library.
@@ -84,7 +87,9 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from SEAL/CKKS talks at Microsoft's Private AI Bootcamp.
 - [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
+- [Yu, Lai, Payor](https://courses.csail.mit.edu/6.857/2015/files/yu-lai-payor.pdf). Writup of the scheme behind Integer Vector Homomorphic Encryption.
 - [Zhigang Chen](https://zhigang-chen.github.io/FHE%20and%20Machine%20Learning%20References.html). FHE and Machine Learning References
+- [Zhou, Wornell](https://pdfs.semanticscholar.org/c386/37e3e2a12eff8c42d82a78e6352da80818a2.pdf)
 
 ## Papers
 
