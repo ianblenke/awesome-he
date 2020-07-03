@@ -22,7 +22,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [FHEW](https://github.com/lducas/FHEW) - A Fully HE library based on [_FHEW: Bootstrapping Homomorphic Encryption in less than a second_](https://eprint.iacr.org/2014/816).
 - [FV-NFLlib](https://github.com/CryptoExperts/FV-NFLlib) - A header-only library implementing the Fan-Vercauteren scheme.
 - [HEAAN](https://github.com/snucrypto/HEAAN) -  Scheme with native support for fixed point approximate arithmetic.
-- [HElib](https://github.com/HomEnc/HElib) - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
+- [HElib] - Brakerski-Gentry-Vaikuntanathan (BGV) scheme.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
@@ -31,16 +31,22 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [SEAL].
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe] algorithms.
-- [Microsoft SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.
-- [PALISADE](https://git.njit.edu/palisade/PALISADE) - lattice encryption library.
+- [Microsoft SEAL] - C++ FHE library implementing BFV and CKKS schemes.
+- [PALISADE] - lattice encryption library.
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
 - [python-paillier](https://github.com/n1analytics/python-paillier) - Partially HE based on Paillier scheme.
-- [SEAL](http://sealcrypto.org) - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
+- [SEAL] - "FullRNS" optimization of Fan-Vercauteren (FV) scheme.
 - [Pyfhel](https://github.com/ibarrond/Pyfhel) - A Python wrapper for [SEAL], [HElib], and [PALISADE].
 - [PySEAL](https://github.com/Lab41/PySEAL) - This code wraps the SEAL build in a docker container and provides Python API's to the encryption library.
 - [SparkFHE](https://github.com/SpiRITlab/spark) - Apache Spark with an add-on for FHE computations. See [:page_facing_up:](https://homomorphicencryption.org/wp-content/uploads/2019/08/poster_5.pdf).
-- [tfhe](https://github.com/tfhe/tfhe) - Faster fully HE: Bootstrapping in less than 0.1 seconds.
+- [tfhe] - Faster fully HE: Bootstrapping in less than 0.1 seconds.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep learning with Homomorphic Encryption (HE) through Intel nGraph.
+
+[SEAL]: (http://sealcrypto.org)
+[HElib]: https://github.com/HomEnc/HElib
+[Microsoft SEAL]: https://github.com/microsoft/SEAL
+[PALISADE]: https://git.njit.edu/palisade/PALISADE
+[tfhe]: https://github.com/tfhe/tfhe
 
 ## Software
 
