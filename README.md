@@ -61,7 +61,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [Prisma/DB](https://github.com/PrismaDB/PrismaDB) - Security layer for relational database systems.
 - [TimeCrypt](https://github.com/TimeCrypt/timecrypt) - Encrypted time-series database using homomorphic encryption-based access control.
 - [ZeroDB](https://github.com/zerodb/zerodb) - E2E encrypted database using proxy re-encryption.
-
+- [TimeCrypt](https://github.com/TimeCrypt/timecrypt) - Encrypted time-series database using homomorphic encryption-based access control.
 
 ## Resources
 
@@ -81,6 +81,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 -  FV algorithm
     - https://eprint.iacr.org/2012/144.pdf
+- [Daniele Micciancio](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
+- [HomomorphicEncryption.org](https://homomorphicencryption.org). An open industry, government, and academic consortium for working on standardization of FHE.
 
 ## Related awesome lists
 
