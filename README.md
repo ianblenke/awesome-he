@@ -42,7 +42,8 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [tfhe] - Faster fully HE: Bootstrapping in less than 0.1 seconds.
 - [nGraph-HE](https://github.com/NervanaSystems/he-transformer) - Deep learning with Homomorphic Encryption (HE) through Intel nGraph.
 
-[SEAL]: (http://sealcrypto.org)
+
+[SEAL]: http://sealcrypto.org
 [HElib]: https://github.com/HomEnc/HElib
 [Microsoft SEAL]: https://github.com/microsoft/SEAL
 [PALISADE]: https://git.njit.edu/palisade/PALISADE
@@ -51,7 +52,6 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 ## Software
 
 - [ALCHEMY](https://github.com/cpeikert/ALCHEMY) - Haskell-based DSLs and interpreters/compilers, build on top of the lattice crypto library Lol.
-=======
 
 ## Software
 
