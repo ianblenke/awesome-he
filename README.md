@@ -35,7 +35,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [NFLlib](https://github.com/quarkslab/NFLlib) - NTT-based Fast Lattice library specialized on power-of-two polynomials.
 - [node-seal](https://github.com/morfix-io/node-seal) - JavaScript/WebAssembly port of [SEAL].
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU-accelerated HE library, faster than cuFHE, that implements the [tfhe] algorithms.
-- [Microsoft SEAL] - C++ FHE library implementing BFV and CKKS schemes.
+- [Microsoft SEAL] - C++ FHE library implementing BFV and [CKKS] schemes.
 - [PALISADE] - lattice encryption library.
 - [Paillier](https://github.com/mikeivanov/paillier) - Very basic pure Python implementation of the Paillier Homomorphic Cryptosystem
 - [petlib](https://github.com/gdanezis/petlib) - Python library that implements a number of Privacy Enhancing Technologies.
@@ -81,24 +81,36 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 - [Barak, Boaz](https://intensecrypto.org/public/lec_15_FHE.html). Chapter about FHE in Barak's introductory book to Cryptography, used for Harvard CS 127.
 - [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
+- [Chatterjee, Sengupta](https://eprint.iacr.org/2015/981.pdf) - Searching and Sorting of Fully Homomorphic
+Encrypted Data on Cloud
 - [Chen, Zhigang](https://zhigang-chen.github.io/A%20List%20of%20FHE%20Papers.html). A continuously updated list of FHE papers.
 - [Gentry, Craig](https://crypto.stanford.edu/craig/craig-thesis.pdf). A fully homomorphic encryption scheme. Stanford University, 2009.
 - [HomomorphicEncryption.org](https://homomorphicencryption.org). An open industry, government & academic consortium working on standardization of FHE.
 - [KU Leuven](https://www.esat.kuleuven.be/cosic/tag/cosic-guide-to-crypto/). An introduction to homomorphic encryption.
+- [Lepoint, Naehrig](https://eprint.iacr.org/2014/062) - A Comparison of the Homomorphic Encryption Schemes FV and YASHE
 - [Micciancio, Daniele](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
-- [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from SEAL/CKKS talks at Microsoft's Private AI Bootcamp.
+- [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from [SEAL]/[CKKS] talks at Microsoft's Private AI Bootcamp.
 - [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Yu, Lai, Payor](https://courses.csail.mit.edu/6.857/2015/files/yu-lai-payor.pdf). Writup of the scheme behind Integer Vector Homomorphic Encryption.
 - [Zhigang Chen](https://zhigang-chen.github.io/FHE%20and%20Machine%20Learning%20References.html). FHE and Machine Learning References
 - [Zhou, Wornell](https://pdfs.semanticscholar.org/c386/37e3e2a12eff8c42d82a78e6352da80818a2.pdf)
 
+## Videos
+
+- [The CKKS (a.k.a. HEAAN) FHE Scheme](https://simons.berkeley.edu/talks/heaan-fhe) - Video on CKKS
+
 ## Papers
 
--  FV algorithm
-    - https://eprint.iacr.org/2012/144.pdf
+- Brakerski/Fan-Vercauteren ([FV]/BFV) algorithm
+- Cheon, Kim, Kim and Song ([CKKS]/[CKKS17]) (aka HEEAN - Homomorphic Encryption for Arithmetic of Approximate Numbers) algorithm
+
 - [Daniele Micciancio](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
 - [HomomorphicEncryption.org](https://homomorphicencryption.org). An open industry, government, and academic consortium for working on standardization of FHE.
+
+[FV]: https://eprint.iacr.org/2012/144.pdf
+[CKKS17]: https://eprint.iacr.org/2012/144.pdf
+[CKKS]: https://eprint.iacr.org/2018/931.pdf
 
 ## Related awesome lists
 
