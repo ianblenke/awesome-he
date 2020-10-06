@@ -90,11 +90,13 @@ Encrypted Data on Cloud
 - [Lepoint, Naehrig](https://eprint.iacr.org/2014/062) - A Comparison of the Homomorphic Encryption Schemes FV and YASHE
 - [Micciancio, Daniele](http://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html). Links to papers and implementations of Lattice Cryptography schemes.
 - [Microsoft Research](https://www.youtube.com/playlist?list=PLD7HFcN7LXRef-eTSGt_XOUJLZNoDINUn). Videos from [SEAL]/[CKKS] talks at Microsoft's Private AI Bootcamp.
+- [Sun, X. Q.](https://doi.org/10.1007%2Fs10773-017-3275-0) - An efficient quantum somewhat homomorphic symmetric searchable encryption. 
 - [Vaikuntanathan, Vinoid](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Vinoid Vaikuntanathan](https://people.csail.mit.edu/vinodv/FHE/FHE-refs.html). A list of references about FHE, covering top papers in the field.
 - [Yu, Lai, Payor](https://courses.csail.mit.edu/6.857/2015/files/yu-lai-payor.pdf). Writup of the scheme behind Integer Vector Homomorphic Encryption.
 - [Zhigang Chen](https://zhigang-chen.github.io/FHE%20and%20Machine%20Learning%20References.html). FHE and Machine Learning References
 - [Zhou, Wornell](https://pdfs.semanticscholar.org/c386/37e3e2a12eff8c42d82a78e6352da80818a2.pdf)
+- [Zhou, Lu, Sun, Li](https://www.nature.com/articles/s41598-020-61791-9) Quantum Search on Encrypted Data Based on Quantum Homomorphic Encryption
 
 ## Videos
 
