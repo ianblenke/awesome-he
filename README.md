@@ -79,6 +79,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 
 ## Resources
 
+- [Fully Homomorphic Encryption from the Ground Up](https://www.youtube.com/watch?v=TySXpV86958). Talk at Eurocrypt 2019 by Daniele Micciancio, UC San Diego.
 - [Barak, Boaz](https://intensecrypto.org/public/lec_15_FHE.html). Chapter about FHE in Barak's introductory book to Cryptography, used for Harvard CS 127.
 - [Barthelemy, Lucas](https://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html). Brief survey of Fully HE. 2016.
 - [Chatterjee, Sengupta](https://eprint.iacr.org/2015/981.pdf) - Searching and Sorting of Fully Homomorphic
