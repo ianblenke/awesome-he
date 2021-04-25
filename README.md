@@ -30,6 +30,7 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [IBM FHE Toolkit for MacOS](https://github.com/IBM/fhe-toolkit-macos) - XCode packaged HElib for MacOS
 - [IBM FHE Toolkit for iOS](https://github.com/IBM/fhe-toolkit-ios) - XCode packaged HElib for iOS
 - [Integer Vector Homomorphic Encryption](https://github.com/jamespayor/vector-homomorphic-encryption) - MIT 6.857 project - HE scheme permitting addition, linear transformation, and weighted inner products of integer vectors, whilst encrypted.
+- [Intel Homomorphic Encryption Acceleration Library](https://github.com/intel/hexl) - Intel Homomorphic Encryption Acceleration Library using AVX512 to accelerate HE primitives.
 - [krypto](https://github.com/kryptnostic/krypto) - C++ implementation of multivariate quadratic FHE.
 - [Λ ○ λ](https://github.com/cpeikert/Lol) - "Lol" Haskell library for ring-based lattice cryptography that supports FHE.
 - [Lattigo](https://github.com/ldsec/lattigo) - Go library for lattice-based crypto that implements various schemes.
@@ -79,8 +80,9 @@ Libraries that can be used to implement applications using (Fully) Homomorphic E
 - [IBM FHE toolkit](https://fhe-website.mybluemix.net) - Including FHE ML inference with a Neural Network and a Privacy-Preserving key-value search.
 	- [fhe-toolkit-android](https://github.com/IBM/fhe-toolkit-android) - IBM FHE toolkit for Android
 	- [fhe-toolkit-ios](https://github.com/IBM/fhe-toolkit-ios) - IBM FHE toolkit for iOS
-	- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions) 
+	- [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM FHE toolkit for Linux (Docker based Centos, Fedora, Ubuntu & Alpine editions)
 	- [fhe-toolkit-macos](https://github.com/IBM/fhe-toolkit-macos) - IBM FHE toolkit for macOS
+- [Intel HE Toolkit](https://software.intel.com/content/www/us/en/develop/tools/homomorphic-encryption.html) - Intel HE toolkit integrating Intel Homomorphic Encryption Acceleration Library with SEAL and PALISADE
 - [Marble](https://github.com/MarbleHE/Marble) - C++ framework that translates between nearly plaintext-style user programs and FHE computations.
 - [SHEEP](https://github.com/alan-turing-institute/SHEEP) - HE evaluation platform with a set of native benchmarks and a library agnostic language.
 
